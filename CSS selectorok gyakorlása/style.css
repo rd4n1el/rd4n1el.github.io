@@ -1,0 +1,29 @@
+body {
+    width: 20%;
+}
+
+
+.big {
+    color: rgb(0, 3, 161)
+}
+
+
+.b326 {
+    border-style: solid;
+    border-color: rgb(13, 198, 28);
+    border-width: 1px;
+}
+
+#b325 {
+    border-style: solid;
+    border-color: rgb(13, 198, 28);
+    border-width: 1px;
+}
+
+
+.asteroid.b329 {
+    background-color: yellow;
+}
+#b325,.asteroid.b326,.b329 {
+    font-weight: bolder;
+}
